@@ -16,3 +16,6 @@ Public API for CMI plugin
     <version>VERSION</version>
 </dependency>
 ```
+
+## Disclaimer
+We do not own this project, the original author of this project is [Zrips](https://github.com/Zrips/CMI-API). We forked the project in order to add maven support to it.
